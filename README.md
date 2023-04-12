@@ -6,6 +6,7 @@ I’m currently working as a Software Engineer in Cotiviti Nepal(Healthcare Anal
 
 Along with my professional duties, I have been learning and brushing up my skills in my field of interest - Data Science and Machine Learning. You can view my personal projects in the repositories. 
 
-Reach me out:- sonuadhikari081@gmail.com
+Write to me
+:- sonuadhikari081@gmail.com
 
 Thank you.
