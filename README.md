@@ -1,6 +1,6 @@
 ### Hi there.
 
-I am Sonu Adhikari. I am currently studying Data Science and Artificial Intelligence at Asian Institute of Technology, Thailand.
+I am Sonu Adhikari. I am currently pursuing my masters in Data Science and Artificial Intelligence at Asian Institute of Technology, Thailand.
 
 I have completed my Bachelor's degree in Computer Engineering from Tribhuvan University,Nepal.
 
