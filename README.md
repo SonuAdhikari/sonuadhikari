@@ -9,6 +9,6 @@ I've worked as a Software Engineer in Cotiviti Nepal(Healthcare Analytics Compan
 You can view my personal projects in the repositories. 
 
 Write to me
-:- sonuadhikari081@gmail.com
+:- sonuadhikari081@gmail.com / Sonu.Adhikari@ait.asia
 
 Thank you.
