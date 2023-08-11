@@ -11,4 +11,4 @@ You can view my personal projects in the repositories.
 Write to me
 :- sonuadhikari081@gmail.com / Sonu.Adhikari@ait.asia
 
-Thank you.
+Thank you for stopping by :)
