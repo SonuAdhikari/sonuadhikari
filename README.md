@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Sonu Adhikari
 
-🎓 **Master’s in Data Science & Artificial Intelligence**  
-Asian Institute of Technology (AIT), Thailand  
-💻 **B.E. in Computer Engineering** — Tribhuvan University, Nepal  
+🎓 **Master’s in Data Science & Artificial Intelligence** - Asian Institute of Technology (AIT), Thailand  
+💻 **B.E. in Computer Engineering** - Tribhuvan University, Nepal  
 
 ---
 
