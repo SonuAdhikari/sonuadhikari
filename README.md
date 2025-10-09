@@ -45,7 +45,7 @@ Each project reflects my interest in **data engineering**, **AI**, and **ethical
 
 ## 📫 Let’s Connect
 📧 **Email:** sonuadhikari081@gmail.com 
-🌐 **LinkedIn:** [linkedin.com/in/sonuadhikari](#) *(Add your real link)*  
+🌐 **LinkedIn:** [linkedin.com/in/sonuadhikari](https://www.linkedin.com/in/sonu-adhikari/)]
 
 ---
 
