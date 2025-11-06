@@ -27,29 +27,7 @@ This experience sparked my deep interest in **data engineering, AI systems, and 
 
 ---
 
-## 🧰 Tech Toolbox
-**Languages:** Python, SQL, Bash  
-**Data Tools:** Talend, SSIS, Airflow, dbt, Spark  
-**Databases:** PostgreSQL, SQL Server  
-**Cloud:** AWS  
-**Version Control:** Git, GitHub  
-**Other Interests:** Responsible AI, Data Ethics
-
----
-
-## 📁 Projects
-You can find my personal and academic projects in the repositories below ⬇️  
-Each project reflects my interest in **data engineering**, **AI**, and **ethical system design**.
-
----
-
 ## 📫 Let’s Connect
 📧 **Email:** sonuadhikari081@gmail.com 
 🌐 **LinkedIn:** [linkedin.com/in/sonuadhikari](https://www.linkedin.com/in/sonu-adhikari/)
-
----
-
-> “Good data engineering isn’t just about moving data — it’s about making it trustworthy, ethical, and impactful.”
-
----
 
