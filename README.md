@@ -1,11 +1,11 @@
-## 👋 Hi, I'm Sonu Adhikari
+👋 Hi, I'm Sonu Adhikari
 
 🎓 **ME(Data Science & Artificial Intelligence)** - AIT, Thailand  
 💻 **BE(Computer Engineering)** - TU, Nepal  
 
 ---
 
-## 💼 Professional Background
+💼 Professional Background
 
 I’m a data-driven engineer passionate about building **scalable, reliable, and ethical data systems** that enable meaningful insights.
 
@@ -16,12 +16,12 @@ Some of my key work involved:
 - 🗃️ Ensuring **data integrity, validation, and process automation**.  
 - 🤝 Collaborating with analytics and data science teams to streamline data delivery.
 ---
-## 🔍 What I’m Working On
+🔍 What I’m Working On
 - 📊 Building **ethical and transparent AI frameworks** for healthcare applications.  
 - ☁️ Learning more about **data pipeline automation and cloud data architectures (Airflow, dbt, BigQuery, AWS)**.  
 - 🧠 Exploring ways to integrate **responsible AI principles** into modern data workflows.
 ---
-## 📫 Let’s Connect
+📫 Let’s Connect
 📧 **Email:** sonuadhikari081@gmail.com 
 🌐 **LinkedIn:** [linkedin.com/in/sonuadhikari](https://www.linkedin.com/in/sonu-adhikari/)
 
