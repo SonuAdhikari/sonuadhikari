@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sonu Adhikari
 
-👀 Interested in **AI, Machine Learning, Data Engineering, and Agentic AI**.
+👀 Interested in **AI, Machine Learning, Data Engineering, and Analytics**.
 
 🌱 Currently exploring:
 - Generative AI & LLM applications
@@ -8,13 +8,13 @@
 - MLOps & Cloud technologies
 - Building intelligent data-driven solutions
 
-🎓 Master’s in Data Science & AI  
-💻 Background in Data Engineering & Analytics
+🎓 Master’s in Data Science & AI
+🎓 Bachelor’s in Computer Engineering
 
 🧠 Research interests:
-- Responsible AI
+- Responsible & Trustworthy AI
 - Ethical AI in Healthcare
-- AI system evaluation
+- AI Policy and Governance
 
 🛠️ Tech stack:
 Python | SQL | AWS | LLMs | LangChain | LangGraph | Agentic AI | Docker
