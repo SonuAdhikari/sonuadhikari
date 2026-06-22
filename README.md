@@ -1,27 +1,25 @@
-👋 Hi, I'm Sonu Adhikari
+# 👋 Hi, I’m Sonu Adhikari
 
-🎓 ME(Data Science & Artificial Intelligence) - AIT, Thailand  
-💻 BE(Computer Engineering) - TU, Nepal  
+👀 Interested in **AI, Machine Learning, Data Engineering, and Agentic AI**.
 
----
+🌱 Currently exploring:
+- Generative AI & LLM applications
+- AI Agents and RAG systems
+- MLOps & Cloud technologies
+- Building intelligent data-driven solutions
 
-💼 Professional Background
+🎓 Master’s in Data Science & AI  
+💻 Background in Data Engineering & Analytics
 
-I’m a data-driven engineer passionate about building **scalable, reliable, and ethical data systems** that enable meaningful insights.
+🧠 Research interests:
+- Responsible AI
+- Ethical AI in Healthcare
+- AI system evaluation
 
-Previously, I worked as a **Software Engineer at Cotiviti Nepal**, a leading **healthcare analytics company**, where I got to work hands-on with **large-scale datasets** and complex data workflows.  
-Some of my key work involved:
-- 🧩 Writing and optimizing advanced **SQL queries** for performance.  
-- ⚙️ Building and maintaining **ETL pipelines** using **Talend**,**SSIS**,**AWS**.  
-- 🗃️ Ensuring **data integrity, validation, and process automation**.  
-- 🤝 Collaborating with analytics and data science teams to streamline data delivery.
----
-🔍 What I’m Working On
-- 📊 Building **ethical and transparent AI frameworks** for healthcare applications.  
-- ☁️ Learning more about **data pipeline automation and cloud data architectures (Airflow, dbt, BigQuery, AWS)**.  
-- 🧠 Exploring ways to integrate **responsible AI principles** into modern data workflows.
----
-📫 Let’s Connect
+🛠️ Tech stack:
+Python | SQL | AWS | LLMs | LangChain | LangGraph | Agentic AI | Docker
+
+📫 Reach me:
 📧 **Email:** sonuadhikari081@gmail.com 
 🌐 **LinkedIn:** [linkedin.com/in/sonuadhikari](https://www.linkedin.com/in/sonu-adhikari/)
 
