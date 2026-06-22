@@ -1,7 +1,7 @@
 👋 Hi, I'm Sonu Adhikari
 
-🎓 **ME(Data Science & Artificial Intelligence)** - AIT, Thailand  
-💻 **BE(Computer Engineering)** - TU, Nepal  
+🎓 ME(Data Science & Artificial Intelligence) - AIT, Thailand  
+💻 BE(Computer Engineering) - TU, Nepal  
 
 ---
 
